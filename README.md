@@ -1,12 +1,4 @@
-# @scope/package-name
-
-This is a boilerplate template for creating a npm package using TypeScript. It provides a solid foundation for building reusable TypeScript libraries (ESM) that can be easily published and consumed by others.
-
-With this template, you can kickstart the development of a TypeScript npm package, focusing on the core functionality of your library while leveraging the benefits of TypeScript and the npm ecosystem.
-
-This is the complementary repository for the YouTube video [A npm package template really explained](https://www.youtube.com/watch?v=gBLDBAiebks). For related material and more, visit our channel [@fromDev2Dev](https://www.youtube.com/@fromDev2Dev).
-
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/gBLDBAiebks/0.jpg)](https://www.youtube.com/watch?v=gBLDBAiebks)
+# Template for TypeScript Package
 
 ## Features
 
