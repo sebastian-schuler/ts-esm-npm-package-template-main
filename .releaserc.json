@@ -16,8 +16,7 @@
       {
         "assets": ["CHANGELOG.md"]
       }
-    ],
-    "@semantic-release/github"
+    ]
   ],
   "preset": "angular"
 }
